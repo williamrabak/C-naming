@@ -1,7 +1,7 @@
 # C# Coding Standars and Naming Conventions
 ###Terminology and Definitions for Naming Conventions:
 
-Camel Case (camelCase): The first letter of the word is lower case and then each first letter of the part of the word is upper case;
+*Camel Case* (camelCase): The first letter of the word is lower case and then each first letter of the part of the word is upper case;
 
 Pascal Case (PascalCase): The first letter of the word is upper case and then each first letter of the part of the word is upper case;
 
