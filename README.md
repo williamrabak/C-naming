@@ -11,7 +11,8 @@
 1. Use Pascal Case for Class names:
 
 Example:
-`
+
+`csharp
 public class HelloWorld { ... };
 `
 
