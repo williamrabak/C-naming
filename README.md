@@ -11,9 +11,9 @@
 1. Use Pascal Case for Class names:
 
 Example:
-'''
+`
 public class HelloWorld { ... };
-'''
+`
 
 2. Use Pascal Case for Method names:
 
