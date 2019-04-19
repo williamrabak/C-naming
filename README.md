@@ -10,13 +10,13 @@
 ## General Rules
 1. Use Pascal Case for Class names:
 
-Ex:
-...
+Example:
+'''
 public class HelloWorld { ... };
-...
+'''
 
 2. Use Pascal Case for Method names:
 
-Ex:
+Example:
 
 public void SayHello(string name) { ... };
