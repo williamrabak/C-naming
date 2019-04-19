@@ -12,9 +12,9 @@
 
 Example:
 
-`csharp
+```csharp
 public class HelloWorld { ... };
-`
+```
 
 2. Use Pascal Case for Method names:
 
