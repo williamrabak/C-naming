@@ -27,7 +27,7 @@ In general, naming C# controls is made using **Camel Case** naming convention, w
 
 Control Name | Prefix
 ------------ | ------
-BackgroundWorker | bgw
+BackgroundWorker | **bgw**
 BindingNavigator | bdn
 BindingSource | bds
 Button | btn
