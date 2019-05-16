@@ -33,65 +33,65 @@ BindingSource | bds
 Button | btn
 CheckBox | chk
 CheckedListBox | ckl
-ColorDialog	cld
-ComboBox	cmb
-ContextMenuStrip	cms
-DataGridView	dgv
-DataSet	dts
-DateTimePicker	dtp
-DirectoryEntry	dre
-DirectorySearcher	drs
-DomainUpDown	dud
-ErrorProvider	err
-EventLog	evl
-FileSystemWatcher	fsw
-FlowLayoutPanel	flp
-FolderBrowserDialog	fbd
-FontDialog	fnd
-Form	frm
-GroupBox	grp
-HelpProvider	hlp
-HScrollBar	hsc
-ImageList	img
-Label	lbl
-LinkLabel	llb
-ListBox	lst
-ListView	lvw
-MaskedTextBox	mtx
-MenuStrip	mns
-MessageQueue	msq
-MonthCalendar	cdr
-NotifyIcon	icn
-NumericUpDown	nud
-OpenFileDialog	ofd
-PageSetupDialog	psd
-Panel	pnl
-PerformanceCounter	pfc
-PictureBox	pic
-PrintDialog	prd
-PrintDocument	pdc
-PrintPreviewControl	prv
-PrintPreviewDialog	ppd
-Process	prc
-ProgressBar	prg
-PropertyGrid	prg
-RadioButton	rdo
-RichTextBox	rtx
-SaveFileDialog	sfd
-SerialPort	spt
-ServiceController	scl
-SplitContainer	spl
-Splitter	spl
-StatusStrip	ssr
-TabControl	tab
-TableLayoutPanel	tlp
-TextBox	txt
-Timer	tmr
-ToolStrip	tsr
-ToolStripContainer	tsc
-ToolTip	tip
-TrackBar	trb
-TreeView	tvw
-VScrollBar	vsc
-WebBrowser	wbs
+ColorDialog | cld
+ComboBox | cmb
+ContextMenuStrip | cms
+DataGridView | dgv
+DataSet | dts
+DateTimePicker | dtp
+DirectoryEntry | dre
+DirectorySearcher | drs
+DomainUpDown | dud
+ErrorProvider | err
+EventLog | evl
+FileSystemWatcher | fsw
+FlowLayoutPanel | flp
+FolderBrowserDialog | fbd
+FontDialog | fnd
+Form | frm
+GroupBox | grp
+HelpProvider | hlp
+HScrollBar | hsc
+ImageList | img
+Label | lbl
+LinkLabel | llb
+ListBox | lst
+ListView | lvw
+MaskedTextBox | mtx
+MenuStrip | mns
+MessageQueue | msq
+MonthCalendar | cdr
+NotifyIcon | icn
+NumericUpDown | nud
+OpenFileDialog | ofd
+PageSetupDialog | psd
+Panel | pnl
+PerformanceCounter | pfc
+PictureBox | pic
+PrintDialog | prd
+PrintDocument | pdc
+PrintPreviewControl | prv
+PrintPreviewDialog | ppd
+Process | prc
+ProgressBar | prg
+PropertyGrid | ppg
+RadioButton | rdo
+RichTextBox | rtx
+SaveFileDialog | sfd
+SerialPort | spt
+ServiceController | scl
+SplitContainer | spc
+Splitter | spl
+StatusStrip | ssr
+TabControl | tab
+TableLayoutPanel | tlp
+TextBox | txt
+Timer | tmr
+ToolStrip | tsr
+ToolStripContainer | tsc
+ToolTip | tip
+TrackBar | trb
+TreeView | tvw
+VScrollBar | vsc
+WebBrowser | wbs
 
