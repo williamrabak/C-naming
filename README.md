@@ -34,7 +34,7 @@ Button | _btn_
 CheckBox | _chk_
 CheckedListBox | _ckl_
 ColorDialog | _cld_
-ComboBox | _cmb_
+ComboBox | _cbo_
 ContextMenuStrip | _cms_
 DataGridView | _dgv_
 DataSet | _dts_
