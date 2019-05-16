@@ -29,9 +29,9 @@ Control Name | Prefix
 ------------ | ------
 BackgroundWorker | _bgw_
 BindingNavigator | _bdn_
-BindingSource | bds
-Button | btn
-CheckBox | chk
+BindingSource | _bds_
+Button | _**btn**_
+CheckBox | _**chk**_
 CheckedListBox | ckl
 ColorDialog | cld
 ComboBox | cmb
