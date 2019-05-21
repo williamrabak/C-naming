@@ -62,7 +62,7 @@ MenuStrip | _mns_
 MessageQueue | _msq_
 MonthCalendar | _cdr_
 NotifyIcon | _icn_
-NumericUpDown | _nud_
+NumericUpDown | _num_
 OpenFileDialog | _ofd_
 PageSetupDialog | _psd_
 Panel | _pnl_
