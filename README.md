@@ -20,7 +20,9 @@ public class HelloWorld { ... };
 
 Example:
 
+```csharp
 public void SayHello(string name) { ... };
+```
 
 ## Naming Conventions for C# Controls
 In general, naming C# controls is made using **Camel Case** naming convention, where the prefix of the name is the abbreviation of the control type name.
