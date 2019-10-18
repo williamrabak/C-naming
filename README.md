@@ -44,13 +44,11 @@ void SayHello(string name)
 6. Avoid abbreviations longer than 5 characters.
 
 7. Avoid using abbreviations unless the full name is excessive:
-Not good:
+
+Example:
 ```csharp
-string addr;
-```
-Good:
-```csharp
-string address;
+string addr;        //NOT GOOD
+string address;     //GOOD
 ```
 
 ## Naming Conventions for C# Controls
