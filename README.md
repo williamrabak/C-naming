@@ -124,3 +124,10 @@ TreeView | _tvw_
 VScrollBar | _vsc_
 WebBrowser | _wbs_
 
+
+
+Dec | Hex  | Char
+----|------|------
+0 | 0x00 | NUL (NULL)
+1 | 0x01 | SOH (START OF HEADING)
+
