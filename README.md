@@ -23,6 +23,35 @@ Example:
 ```csharp
 public void SayHello(string name) { ... };
 ```
+3. Use Camel Case for variables and method parameters:
+
+Example:
+
+```csharp
+int totalCount = 0;
+
+void SayHello(string name)
+{
+     string fullMessage = "Hello " + name;
+     //...
+}
+```
+
+4. Avoid all upper case or all lower case names.
+
+5. Do not use Hungarian notation.
+
+6. Avoid abbreviations longer than 5 characters.
+
+7. Avoid using abbreviations unless the full name is excessive:
+Not good:
+```csharp
+string addr;
+```
+Good:
+```csharp
+string address;
+```
 
 ## Naming Conventions for C# Controls
 In general, naming C# controls is made using **Camel Case** naming convention, where the prefix of the name is the abbreviation of the control type name.
