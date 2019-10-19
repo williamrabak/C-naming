@@ -160,8 +160,8 @@ Dec | Hex  | Char
 29 | 0x1D | GS (GROUP SEPARATOR)
 30 | 0x1E | RS (RECORD SEPARATOR)
 31 | 0x1F | US (UNIT SEPARATOR)
-32 | 0x20 | SPACE
-33 | 0x21 | !
+32 | 0x20 | **SPACE**
+33 | 0x21 | **!**
 34 | 0x22 | "
 35 | 0x23 | #
 36 | 0x24 | $
@@ -252,7 +252,7 @@ Dec | Hex  | Char
 121 | 0x79 | y
 122 | 0x7A | z
 123 | 0x7B | {
-124 | 0x7C | |
+124 | 0x7C | ||
 125 | 0x7D | }
 126 | 0x7E | ~
 127 | 0x7F | DEL (DELETE)
