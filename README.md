@@ -128,8 +128,8 @@ WebBrowser | _wbs_
 
 Dec | Hex  | Char
 ----|------|------
-0 | 0x00 | NUL (NULL)
-1 | 0x01 | SOH (START OF HEADING)
+0 | 0x00 | **NUL (NULL)**
+1 | 0x01 | **SOH (START OF HEADING)**
 2 | 0x02 | SOT (START OF TEXT)
 3 | 0x03 | ETX (END OF TEXT)
 4 | 0x04 | EOT (END OF TRANSMISSION)
@@ -252,7 +252,7 @@ Dec | Hex  | Char
 121 | 0x79 | y
 122 | 0x7A | z
 123 | 0x7B | {
-124 | 0x7C | ||
+124 | 0x7C | |||
 125 | 0x7D | }
 126 | 0x7E | ~
 127 | 0x7F | DEL (DELETE)
