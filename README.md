@@ -126,10 +126,10 @@ WebBrowser | _wbs_
 
 
 
-Dec | Hex  | Char
-----|------|------
-0 | 0x00 | **NUL (NULL)**
-1 | 0x01 | **SOH (START OF HEADING)**
+Dec | Hex  | Bin | Char
+----|------|-----|------
+0 | 0x00 | 0000 0000 | **NUL (NULL)**
+1 | 0x01 | 0000 0001 | **SOH (START OF HEADING)**
 2 | 0x02 | **SOT (START OF TEXT)**
 3 | 0x03 | **ETX (END OF TEXT)**
 4 | 0x04 | **EOT (END OF TRANSMISSION)**
